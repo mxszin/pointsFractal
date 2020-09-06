@@ -1,0 +1,19 @@
+{
+  "name": "points-fractal",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.ts",
+  "scripts": {
+    "dev": "parcel index.html --open",
+    "build": "parcel build <your entry file>",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^3.9.7"
+  },
+  "dependencies": {
+    "victor": "^1.1.0"
+  }
+}
