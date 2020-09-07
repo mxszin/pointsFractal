@@ -4,7 +4,7 @@
   "description": "",
   "main": "index.ts",
   "scripts": {
-    "dev": "parcel index.html --open",
+    "dev": "parcel *.html --open",
     "build": "parcel build <your entry file>",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -14,6 +14,7 @@
     "typescript": "^3.9.7"
   },
   "dependencies": {
+    "transformation-matrix": "^2.4.0",
     "victor": "^1.1.0"
   }
 }

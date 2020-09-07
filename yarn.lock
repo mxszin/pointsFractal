@@ -2,15 +2,15 @@
 # yarn lockfile v1
 
 
+transformation-matrix@^2.4.0:
+  version "2.4.0"
+  resolved "https://registry.yarnpkg.com/transformation-matrix/-/transformation-matrix-2.4.0.tgz#9a63865c6f939c4abc4924d260242611101a5ee2"
+  integrity sha512-cZyijcvmC+ms5M5dw5IzU7A27lKLR7SrRKtopdMK4KZ+cfTzOOKS2iT3vqFPOiKMM9cb81MyAQMxF/cihTbThA==
+
 typescript@^3.9.7:
   version "3.9.7"
   resolved "https://registry.yarnpkg.com/typescript/-/typescript-3.9.7.tgz#98d600a5ebdc38f40cb277522f12dc800e9e25fa"
   integrity sha512-BLbiRkiBzAwsjut4x/dsibSTB6yWpwT5qWmC2OfuCg3GgVQCSgMs4vEctYPhsaGtd0AeuuHMkjZ2h2WG8MSzRw==
-
-vectorjs@^0.1.11:
-  version "0.1.11"
-  resolved "https://registry.yarnpkg.com/vectorjs/-/vectorjs-0.1.11.tgz#2f7de2f1304420f1af3e520c75f745ce31af1d01"
-  integrity sha1-L33i8TBEIPGvPlIMdfdFzjGvHQE=
 
 victor@^1.1.0:
   version "1.1.0"
